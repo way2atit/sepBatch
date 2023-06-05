@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50362" started-at="2023-05-25T14:52:02Z" finished-at="2023-05-25T14:52:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50362" started-at="2023-05-25T14:52:02Z" finished-at="2023-05-25T14:52:52Z">
+      <class name="com.test.Test1">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:com.test.Test1@3e6fa38a]" name="open_browser" is-config="true" duration-ms="5425" started-at="2023-05-25T20:21:56Z" finished-at="2023-05-25T20:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4552" started-at="2023-05-25T20:22:02Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4480" started-at="2023-05-25T20:22:07Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mumbai]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4568" started-at="2023-05-25T20:22:11Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hinjewadi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4549" started-at="2023-05-25T20:22:16Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TATA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kharadi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4505" started-at="2023-05-25T20:22:21Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[COngni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4470" started-at="2023-05-25T20:22:25Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4489" started-at="2023-05-25T20:22:30Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mumbai]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4490" started-at="2023-05-25T20:22:34Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hinjewadi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4491" started-at="2023-05-25T20:22:39Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TATA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kharadi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4507" started-at="2023-05-25T20:22:43Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[COngni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="fillform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Test1@3e6fa38a]" name="fillform" duration-ms="4492" started-at="2023-05-25T20:22:48Z" data-provider="excel_Read" finished-at="2023-05-25T20:22:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IBM]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hadapsar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillform -->
+        <test-method status="PASS" signature="close_browser()[pri:0, instance:com.test.Test1@3e6fa38a]" name="close_browser" is-config="true" duration-ms="2168" started-at="2023-05-25T20:22:52Z" finished-at="2023-05-25T20:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- com.test.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
