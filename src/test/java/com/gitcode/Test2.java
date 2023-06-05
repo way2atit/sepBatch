@@ -7,8 +7,18 @@ public class Test2 {
 	public static void name() {
 		
 		System.out.println("Hello");
+		System.out.println("Hello");
+		
+		System.out.println("Hello");
+		
+		System.out.println("Hello");
+		
+		System.out.println("Hello");
+		
 		
 	}
+	
+	
 	
 	
 	
